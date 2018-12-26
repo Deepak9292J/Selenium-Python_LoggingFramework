@@ -1,0 +1,5 @@
+12/22/2018 08:30:08 PM - LoggerDemoConfig - DEBUG - Debug message
+12/22/2018 08:30:08 PM - LoggerDemoConfig - INFO - Info Level message
+12/22/2018 08:30:08 PM - LoggerDemoConfig - WARNING - Warning message
+12/22/2018 08:30:08 PM - LoggerDemoConfig - ERROR - Error message
+12/22/2018 08:30:08 PM - LoggerDemoConfig - CRITICAL - Critical message

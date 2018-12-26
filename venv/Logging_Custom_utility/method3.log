@@ -1,0 +1,5 @@
+22/12/2018 09:09:13 PM - method3 - DEBUG: Debug message
+22/12/2018 09:09:13 PM - method3 - INFO: Info Level message
+22/12/2018 09:09:13 PM - method3 - WARNING: Warning message
+22/12/2018 09:09:13 PM - method3 - ERROR: Error message
+22/12/2018 09:09:13 PM - method3 - CRITICAL: Critical message

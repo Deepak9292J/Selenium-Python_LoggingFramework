@@ -1,0 +1,5 @@
+22/12/2018 09:09:13 PM - loggingDemo - DEBUG: Debug message
+22/12/2018 09:09:13 PM - loggingDemo - INFO: Info Level message
+22/12/2018 09:09:13 PM - loggingDemo - WARNING: Warning message
+22/12/2018 09:09:13 PM - loggingDemo - ERROR: Error message
+22/12/2018 09:09:13 PM - loggingDemo - CRITICAL: Critical message
